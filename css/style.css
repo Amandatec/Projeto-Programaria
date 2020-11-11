@@ -20,7 +20,6 @@ h2{
 }
 
 section{
-  background-color: yellow;
   max-width: 60%;
   margin: 0 auto;
 }
@@ -46,3 +45,18 @@ img{
   font-size:22px;
   font-style: italic; 
 }
+
+ul{
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+  }
+
+  a{
+    text-decoration: none;
+    color: #99ffff;
+    font-weight: 700;
+  }
+
+
+  
