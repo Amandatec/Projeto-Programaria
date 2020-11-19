@@ -1,5 +1,5 @@
 if (document.getElemntById("nome").value && o campo de email != "" && document.getElementById("email").value != ""){
-  envie os dados
+  alert("Prontinho! Você receberá as mensagens por email.")
 }else{
-  peça para o usuario que preencha os campos nome e email
+  alert("Por favor, preencha os campos nome e email.")
 }
