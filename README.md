@@ -1,2 +1,2 @@
 # Site Ada
-repositório criando para o projeto do Site Ada no curso da Programaria turma 4
+repositório criado para o projeto do Site Ada no curso da Programaria turma 4
